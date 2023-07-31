@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+//codigo
 void VerValores(int *v, int *me, int *ma, int tam)
 {
     int i;
